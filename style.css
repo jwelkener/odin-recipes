@@ -9,3 +9,11 @@ body {
 	font-size: 20pt;
 	line-height: 2;
 }
+
+.rotated-image {
+    /* Rotate the image 90 degrees clockwise */
+    transform: rotate(90deg);
+	margin-left: 50px;
+	margin-top: none;
+	margin-bottom: none;
+  }
